@@ -1,0 +1,128 @@
+.section-5{
+    height: 100vh;
+    background-color: #059669;
+    margin-bottom: 20px;
+
+  }
+  
+    
+    
+
+.cardcontainer{
+    display: flex;
+    height: 600px;
+}
+.card{
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    width: 398px;
+    height: 500px;
+    padding: 0 31px;
+    gap: 33px;
+    background: linear-gradient(45deg, #059669, #10B981);
+}
+.card h2{
+    border-bottom: 3px dotted;
+    font-size: 29px;
+    text-transform: capitalize;
+    font-weight: 400;
+    padding: 27px 0;
+}
+ button{
+        width: 121px;
+        height: 50px;
+        border: 0;
+        outline: none;
+        color: white;
+        border: 0;
+        outline: none;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        position: relative;
+        border-radius: 1px;
+        justify-content: center;
+
+}
+.btn-card{
+    width: 166px;
+    height: 50px;
+    border: 0;
+    outline: none;
+    color: white;
+    position: relative;
+    left: 43vw;
+    right: 43vw;
+    background: linear-gradient(45deg, #059669,#10B981);
+    font-size: 16px;
+    bottom: 47px;
+}
+.novel{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 30px;
+    
+}
+.section-2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 100vh; 
+    grid-gap: 10px;
+    color: #000;
+    margin-bottom: 50px;
+   
+}
+.emoji h2{
+    /* padding: 0 20px; */
+    font-size: 40px;
+    line-height: 0.01em;
+    font-weight: 500;
+
+}
+.emoji p{
+   
+    font-size: 20px;
+    font-weight:  solid 150;
+    
+}
+.emoji{
+     width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    padding: 0 34px;
+    
+   
+}
+.emoji button{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 25.2px;
+    background: linear-gradient(45deg, #059669,#10B981);
+    color: #ffff;
+    font-style: medium;
+    border:0 ;
+    outline: none;
+    height: 53px;
+    width: 223px;
+    margin-top: 20px;
+    border-radius: 3px;
+}
+.view{
+    color: #059669;
+    font-size: 20px;
+    border-bottom: 3px solid #059669;
+    text-decoration: none;
+    font-weight:  solid 150;
+    width: 144px;
+    
+
+}
+.view:hover{
+    font-weight: 300;
+}
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}

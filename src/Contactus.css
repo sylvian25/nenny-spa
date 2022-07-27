@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.contact-head{
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+  
+    color: #059669;
+    justify-content: space-evenly;
+}
+.contact-container{
+    display: flex;
+    flex-direction: row;
+    /* padding: 60px;
+    width: 1250; */
+    justify-content: center;
+    margin: 0 auto;
+}
+.contact-p{
+    
+    font-size: 20px;
+    font-weight: 400px;
+    font-style: normal;
+
+    color: black;
+}
+.address-container{
+    display: flex;
+    flex-direction: column;
+    /* margin-block: 20px; */
+}
+.address-header{
+    
+    font-weight: 700;
+    font-style: normal;
+    font-size: 35px;
+     margin-top: 40px;
+    color:#059669;
+}
+.address-content{
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size:20px;
+ 
+    letter-spacing:0,035em ;
+    color: black;
+}
+.Text-area-container{
+    width: 532px;
+    height: 450px;
+    border: 0.5px solid #000000;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 20px;
+    position: relative;
+    top: 25px;
+    margin-top: 25px;
+}
+.button2{
+    width: 121px;
+    height: 50px;
+    background: linear-gradient(45deg, #059669,#10B981);
+    border: 0;
+    outline: none;
+    background: linear-gradient(45deg, #059669,#10B981);
+    color: #ffff;
+    border: 0;
+    outline: none;
+    margin-top: -1em;
+    margin-left: -8em;
+    position: absolute;
+    bottom: 13px;
+    right: 13px;
+    
+
+
+}
+.Text-area{
+    border: 0;
+    outline: none;
+    width: 40%;
+    height: 40%;
+    box-shadow: none;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    padding: 40px;
+}
+.contactContainer{
+    padding: 3px;
+    margin-bottom: 4em;
+}
+/*   */

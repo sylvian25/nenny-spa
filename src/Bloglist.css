@@ -1,0 +1,50 @@
+.section-4{
+   
+   
+     
+}
+.container2{
+   
+    width: 1333px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container2 h2{
+    background-color: #0000;
+    font-size: 50px;
+    font-weight: 600;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.container2 p{
+    font-size: 20px;
+     font-weight: 400;
+     line-height: 45px;
+     letter-spacing: 0em;
+     text-align: center;
+     width: 69vw;
+     margin-bottom: 20px;
+    
+}
+.container2 button {
+    width: 121px;
+    height: 50px;
+    background: linear-gradient(45deg, #059669,#10B981);
+    border: 0;
+    outline: none;
+    color: white;
+    border: 0;
+    outline: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    border-radius: 8px;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.container2 button:hover{
+    color: black;
+}
