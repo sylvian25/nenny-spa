@@ -3,7 +3,7 @@ const Footer = () => {
     return ( 
         <footer>
             <div className="loot">
-        <div className="nen"><h2>Nen SPA</h2>
+        <div className="nen"><h2>Beauty Hub</h2>
         <p>Here at nen spa & saloon we dare to care...we dare to share,our passion is renewing your to make it come with glory </p>
         </div>   
         <div className="col">

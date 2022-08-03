@@ -1,0 +1,36 @@
+[
+    {
+            "name": "FACE TREATMENT",
+           "Message": "A good start on the way to active longetivity"
+    },
+    {
+            "name": " MANICURE",
+           "Message": "Relaxing in a comfortable way for you nail extension."
+    },
+    {
+            "name": "PEDICURE",
+           "Message": "Pamper yourself from pedicure ,nail polish to foot detox"
+    },
+    {
+            "name": "MASSAGE THERAPY",
+           "Message": "Relax and  recover with a range of healing massages"
+    },
+    {
+            "name": "BODY TREATMENT",
+           "Message": "will give you the feeling of zero gravity"
+    },
+    {
+      "id": 6,
+            "name": " FACIALS",
+           "Message": "cleanse,exfoliate and hydrate with vibrant results."
+    },
+    {
+            "name": "RELAXATION",
+           "Message": "will fill you with vitality and pleasure of being yourself"
+    },
+    {
+            "name": "HAIRSTYLING",
+            "Message": "Pampering your hair,and stylishing in a unique way "
+    }
+   
+  ]

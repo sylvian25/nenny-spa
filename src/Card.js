@@ -2,7 +2,7 @@ import Services from "./Component/Services";
 import { useNavigate } from "react-router-dom";
 import melt from "../src/Asset/image1.png";
 import delt from "../src/Asset/image2.png";
-import lelt from "../src/Asset/image3.png";
+import lelt from "../src/Asset/massa.jpg";
 import '../src/Services.css'
 
 
